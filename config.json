@@ -1,5 +1,6 @@
 {
     "password": "password",
     "user": "superuser",
-    "state": false
+    "state": false,
+    "mood": "tired"
 }
