@@ -1,5 +1,7 @@
 {
     "password": "password",
     "user": "superuser",
-    "state": false
+    "state": false,
+    "x": "aa",
+    "y": "qwer"
 }
