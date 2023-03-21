@@ -3,5 +3,7 @@
     "cliente": "BAZ",
     "tema": "de novato a experto en GIT",
     "status": true,
-    "energia": "100"
+    "energia": "100",
+    "hora": "12:00",
+    "activo": true
 }
