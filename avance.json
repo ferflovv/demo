@@ -4,5 +4,6 @@
     "tema": "de novato a experto en GIT",
     "status": true,
     "energia": "100",
-    "hora": "12:00"
+    "hora": "12:00",
+    "activo": true
 }
